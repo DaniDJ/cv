@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  width: 100%;
+}
+h1 {
+  color: #66BF8F
+}
+height: 3px; {
+  color: #66BF8F
+}
+label
+{
+  display: block;
+	width: 150px;
+	float: left;
+}

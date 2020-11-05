@@ -1,0 +1,18 @@
+/***************************************TAG SELECTORS ******/
+h1 {
+  color: #66BF8F;
+  font-size: 100px;
+}
+
+/*************************CLASS SELECTORS******************/
+/* img {
+  class="bacon"
+  background-color: red;
+} */
+.Bacon {
+  background-color: green;
+}
+
+.Brocolis {
+  background-color: red;
+}
